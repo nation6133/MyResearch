@@ -1,2 +1,2 @@
 # MyResearch
-My research toward neural network, it uses Google Colab
+My research for neural network, by using Google Collaboratory
